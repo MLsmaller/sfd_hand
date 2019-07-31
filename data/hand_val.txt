@@ -1,0 +1,370 @@
+/home/data/lj/egohands/images/test/frame_0008.jpg 4 261 634 493 714 573 646 741 718 588 124 765 219 460 123 569 223 
+/home/data/lj/egohands/images/test/frame_0009.jpg 2 605 403 763 515 368 395 484 520 
+/home/data/lj/egohands/images/test/frame_0015.jpg 4 28 624 333 712 624 342 895 611 297 200 506 448 6 333 56 618 
+/home/data/lj/egohands/images/test/frame_0016.jpg 4 251 678 510 718 586 680 645 718 573 4 736 125 404 2 567 110 
+/home/data/lj/egohands/images/test/frame_0017.jpg 3 736 663 929 719 642 295 821 478 343 343 498 500 
+/home/data/lj/egohands/images/test/frame_0018.jpg 4 410 648 499 716 599 669 654 714 599 288 766 383 395 258 544 396 
+/home/data/lj/egohands/images/test/frame_0024.jpg 4 172 670 421 712 764 280 1028 438 394 252 594 482 5 456 110 714 
+/home/data/lj/egohands/images/test/frame_0029.jpg 4 153 653 406 714 832 228 1029 442 416 217 620 429 1 434 123 711 
+/home/data/lj/egohands/images/test/frame_0064.jpg 4 29 310 370 675 525 293 877 609 566 497 756 615 285 473 359 580 
+/home/data/lj/egohands/images/test/frame_0077.jpg 3 14 437 246 675 526 156 654 279 408 163 548 260 
+/home/data/lj/egohands/images/test/frame_0085.jpg 2 604 272 712 363 505 296 639 386 
+/home/data/lj/egohands/images/test/frame_0101.jpg 3 299 632 406 718 493 256 654 369 360 278 485 378 
+/home/data/lj/egohands/images/test/frame_0102.jpg 3 592 620 870 719 509 308 703 539 81 321 264 519 
+/home/data/lj/egohands/images/test/frame_0110.jpg 4 2 588 254 718 10 13 1211 340 419 298 494 345 219 342 235 353 
+/home/data/lj/egohands/images/test/frame_0124.jpg 3 646 441 947 673 653 288 823 390 472 241 649 355 
+/home/data/lj/egohands/images/test/frame_0126.jpg 2 742 379 933 577 398 298 605 507 
+/home/data/lj/egohands/images/test/frame_0129.jpg 1 709 330 915 503 
+/home/data/lj/egohands/images/test/frame_0131.jpg 3 535 531 1004 718 786 259 919 361 639 235 749 336 
+/home/data/lj/egohands/images/test/frame_0142.jpg 2 624 336 766 440 357 280 515 397 
+/home/data/lj/egohands/images/test/frame_0145.jpg 4 264 633 393 716 617 482 908 719 568 261 698 359 438 267 552 359 
+/home/data/lj/egohands/images/test/frame_0148.jpg 3 477 431 717 627 741 304 895 427 494 260 660 374 
+/home/data/lj/egohands/images/test/frame_0165.jpg 4 216 576 489 718 514 567 820 718 530 266 719 429 323 268 492 413 
+/home/data/lj/egohands/images/test/frame_0179.jpg 2 730 297 874 413 472 259 639 367 
+/home/data/lj/egohands/images/test/frame_0186.jpg 3 873 495 1191 713 599 180 777 344 155 194 354 327 
+/home/data/lj/egohands/images/test/frame_0187.jpg 2 656 460 845 568 517 387 660 530 
+/home/data/lj/egohands/images/test/frame_0190.jpg 2 535 296 766 387 292 238 539 460 
+/home/data/lj/egohands/images/test/frame_0192.jpg 1 531 293 841 523 
+/home/data/lj/egohands/images/test/frame_0197.jpg 4 119 463 369 711 581 496 858 715 501 229 600 339 311 313 344 408 
+/home/data/lj/egohands/images/test/frame_0198.jpg 3 601 411 899 683 775 450 915 582 209 446 365 627 
+/home/data/lj/egohands/images/test/frame_0201.jpg 4 237 706 284 717 523 452 670 675 678 373 872 520 333 296 515 528 
+/home/data/lj/egohands/images/test/frame_0204.jpg 3 695 635 902 718 645 334 872 498 278 242 466 369 
+/home/data/lj/egohands/images/test/frame_0207.jpg 2 187 680 305 718 535 429 708 590 
+/home/data/lj/egohands/images/test/frame_0218.jpg 4 122 414 408 716 557 534 817 714 504 226 615 353 299 335 327 405 
+/home/data/lj/egohands/images/test/frame_0221.jpg 2 654 309 851 469 208 142 394 286 
+/home/data/lj/egohands/images/test/frame_0224.jpg 4 1 469 204 718 523 630 1018 716 968 4 1246 254 258 20 431 222 
+/home/data/lj/egohands/images/test/frame_0228.jpg 3 192 636 411 718 536 217 711 312 427 219 536 318 
+/home/data/lj/egohands/images/test/frame_0239.jpg 3 668 291 939 499 556 181 682 284 420 43 564 153 
+/home/data/lj/egohands/images/test/frame_0241.jpg 2 666 402 856 511 546 383 667 511 
+/home/data/lj/egohands/images/test/frame_0252.jpg 2 175 701 345 718 465 153 621 301 
+/home/data/lj/egohands/images/test/frame_0288.jpg 3 663 499 944 719 646 377 819 475 486 322 620 463 
+/home/data/lj/egohands/images/test/frame_0307.jpg 3 605 322 889 703 715 345 804 392 427 360 510 500 
+/home/data/lj/egohands/images/test/frame_0313.jpg 3 474 263 1037 540 802 76 948 225 542 41 775 190 
+/home/data/lj/egohands/images/test/frame_0314.jpg 3 97 440 412 713 580 468 753 627 290 469 349 586 
+/home/data/lj/egohands/images/test/frame_0316.jpg 3 653 429 992 626 509 179 649 279 378 196 515 287 
+/home/data/lj/egohands/images/test/frame_0324.jpg 3 152 305 393 604 569 114 741 246 317 218 448 352 
+/home/data/lj/egohands/images/test/frame_0325.jpg 2 551 367 687 463 172 409 344 571 
+/home/data/lj/egohands/images/test/frame_0334.jpg 3 918 227 1215 642 725 569 912 718 212 577 377 718 
+/home/data/lj/egohands/images/test/frame_0348.jpg 2 634 409 774 501 474 402 604 494 
+/home/data/lj/egohands/images/test/frame_0364.jpg 3 325 672 518 716 707 168 841 296 382 225 543 429 
+/home/data/lj/egohands/images/test/frame_0373.jpg 4 303 353 565 625 620 486 938 716 497 189 709 317 255 144 383 283 
+/home/data/lj/egohands/images/test/frame_0378.jpg 4 3 532 274 718 959 470 1279 718 861 345 1067 549 402 265 641 394 
+/home/data/lj/egohands/images/test/frame_0382.jpg 4 2 606 86 715 635 532 1056 716 472 269 673 418 170 192 361 332 
+/home/data/lj/egohands/images/test/frame_0386.jpg 4 1 591 226 718 1020 559 1277 718 789 345 980 538 383 275 573 402 
+/home/data/lj/egohands/images/test/frame_0396.jpg 3 265 440 460 717 461 241 650 346 346 250 466 359 
+/home/data/lj/egohands/images/test/frame_0400.jpg 4 179 513 540 710 641 456 996 709 682 107 875 342 231 134 465 369 
+/home/data/lj/egohands/images/test/frame_0403.jpg 3 212 692 386 718 692 226 848 342 371 205 540 338 
+/home/data/lj/egohands/images/test/frame_0411.jpg 4 7 559 243 716 1067 568 1279 716 643 174 950 426 389 269 582 398 
+/home/data/lj/egohands/images/test/frame_0412.jpg 4 159 638 258 716 564 619 749 716 752 229 878 338 451 268 689 423 
+/home/data/lj/egohands/images/test/frame_0414.jpg 4 251 680 518 718 537 697 586 718 565 61 747 174 338 57 480 188 
+/home/data/lj/egohands/images/test/frame_0416.jpg 2 675 213 821 351 258 214 416 435 
+/home/data/lj/egohands/images/test/frame_0425.jpg 2 677 299 779 402 404 322 472 447 
+/home/data/lj/egohands/images/test/frame_0427.jpg 4 135 597 419 718 546 555 833 717 697 183 841 276 481 107 689 225 
+/home/data/lj/egohands/images/test/frame_0450.jpg 4 142 601 435 718 536 577 800 718 720 183 847 292 400 114 554 245 
+/home/data/lj/egohands/images/test/frame_0456.jpg 2 631 339 900 488 181 317 396 507 
+/home/data/lj/egohands/images/test/frame_0457.jpg 2 601 585 864 718 1 114 243 301 
+/home/data/lj/egohands/images/test/frame_0460.jpg 4 296 670 471 716 487 678 637 718 628 360 740 536 588 323 651 441 
+/home/data/lj/egohands/images/test/frame_0462.jpg 2 428 363 614 491 2 283 181 468 
+/home/data/lj/egohands/images/test/frame_0482.jpg 3 287 659 474 718 531 89 724 201 346 15 533 140 
+/home/data/lj/egohands/images/test/frame_0491.jpg 4 1 398 83 623 421 656 749 719 762 256 944 448 344 119 607 363 
+/home/data/lj/egohands/images/test/frame_0493.jpg 3 463 566 848 719 567 281 721 410 396 288 557 420 
+/home/data/lj/egohands/images/test/frame_0499.jpg 2 599 355 729 466 431 392 443 420 
+/home/data/lj/egohands/images/test/frame_0502.jpg 4 158 497 540 714 661 458 931 713 580 195 786 405 354 116 569 280 
+/home/data/lj/egohands/images/test/frame_0505.jpg 3 625 405 1094 719 525 334 648 423 362 335 492 442 
+/home/data/lj/egohands/images/test/frame_0507.jpg 2 742 670 947 719 604 341 734 447 
+/home/data/lj/egohands/images/test/frame_0511.jpg 4 167 611 406 713 757 675 940 716 622 301 824 415 477 272 608 419 
+/home/data/lj/egohands/images/test/frame_0515.jpg 3 670 552 1023 718 716 411 911 551 191 384 371 564 
+/home/data/lj/egohands/images/test/frame_0528.jpg 3 1 329 234 601 431 450 878 684 1075 254 1279 559 
+/home/data/lj/egohands/images/test/frame_0530.jpg 2 653 260 835 361 358 245 515 445 
+/home/data/lj/egohands/images/test/frame_0537.jpg 3 173 638 302 718 465 76 635 190 274 2 446 101 
+/home/data/lj/egohands/images/test/frame_0540.jpg 4 19 296 533 619 495 353 924 708 820 193 1025 408 515 133 734 348 
+/home/data/lj/egohands/images/test/frame_0550.jpg 4 8 392 382 716 695 555 937 719 605 579 762 715 209 587 407 718 
+/home/data/lj/egohands/images/test/frame_0552.jpg 4 130 378 477 653 495 454 855 712 913 153 1118 334 680 212 969 473 
+/home/data/lj/egohands/images/test/frame_0577.jpg 4 2 518 255 706 616 516 1159 717 548 254 833 531 7 354 82 506 
+/home/data/lj/egohands/images/test/frame_0584.jpg 3 650 456 1198 717 325 94 496 230 98 89 313 239 
+/home/data/lj/egohands/images/test/frame_0598.jpg 4 1 663 156 718 452 684 656 718 419 254 694 466 7 358 270 576 
+/home/data/lj/egohands/images/test/frame_0605.jpg 2 366 591 588 716 547 223 748 341 
+/home/data/lj/egohands/images/test/frame_0612.jpg 4 181 537 468 713 625 677 680 716 614 222 757 320 468 216 592 320 
+/home/data/lj/egohands/images/test/frame_0620.jpg 4 7 523 205 718 407 386 903 718 688 264 907 384 457 221 709 359 
+/home/data/lj/egohands/images/test/frame_0623.jpg 2 530 184 606 278 403 181 561 346 
+/home/data/lj/egohands/images/test/frame_0627.jpg 3 732 545 930 718 708 320 832 409 580 303 701 400 
+/home/data/lj/egohands/images/test/frame_0637.jpg 4 109 555 411 716 517 497 814 717 662 206 839 362 138 264 302 511 
+/home/data/lj/egohands/images/test/frame_0640.jpg 3 18 643 117 716 716 443 888 584 547 460 706 605 
+/home/data/lj/egohands/images/test/frame_0642.jpg 2 472 210 613 322 266 132 449 279 
+/home/data/lj/egohands/images/test/frame_0644.jpg 4 249 594 506 714 900 593 1130 716 799 244 873 360 586 261 652 350 
+/home/data/lj/egohands/images/test/frame_0649.jpg 2 575 386 746 487 420 341 571 468 
+/home/data/lj/egohands/images/test/frame_0655.jpg 3 787 334 1022 517 410 280 584 445 215 265 360 388 
+/home/data/lj/egohands/images/test/frame_0672.jpg 4 54 564 411 719 905 391 1277 719 733 350 907 473 378 408 594 643 
+/home/data/lj/egohands/images/test/frame_0675.jpg 4 18 623 271 717 225 619 543 717 575 181 742 303 404 172 571 295 
+/home/data/lj/egohands/images/test/frame_0679.jpg 2 716 336 868 442 571 318 730 428 
+/home/data/lj/egohands/images/test/frame_0682.jpg 4 259 598 510 719 535 477 899 719 514 203 657 309 371 208 488 324 
+/home/data/lj/egohands/images/test/frame_0703.jpg 4 103 652 344 718 616 638 906 718 599 197 878 405 162 150 455 394 
+/home/data/lj/egohands/images/test/frame_0721.jpg 4 84 588 325 718 534 573 791 718 437 3 653 208 40 109 222 349 
+/home/data/lj/egohands/images/test/frame_0726.jpg 3 431 446 953 718 1128 495 1279 622 220 384 439 606 
+/home/data/lj/egohands/images/test/frame_0732.jpg 4 382 685 461 718 659 692 716 718 697 251 825 357 543 247 653 333 
+/home/data/lj/egohands/images/test/frame_0740.jpg 2 592 364 759 497 156 358 331 557 
+/home/data/lj/egohands/images/test/frame_0756.jpg 4 6 329 288 667 548 322 930 660 603 569 823 718 213 583 410 717 
+/home/data/lj/egohands/images/test/frame_0768.jpg 4 143 490 455 717 522 415 876 716 560 52 744 160 371 35 540 172 
+/home/data/lj/egohands/images/test/frame_0776.jpg 2 737 305 883 415 426 287 596 475 
+/home/data/lj/egohands/images/test/frame_0788.jpg 2 1 292 160 472 539 330 948 650 
+/home/data/lj/egohands/images/test/frame_0803.jpg 3 1 576 143 718 630 258 1092 612 353 267 558 400 
+/home/data/lj/egohands/images/test/frame_0804.jpg 4 155 598 309 718 539 272 728 436 558 143 741 258 373 134 534 259 
+/home/data/lj/egohands/images/test/frame_0807.jpg 3 278 648 455 718 740 313 891 417 609 283 766 398 
+/home/data/lj/egohands/images/test/frame_0809.jpg 4 112 522 389 717 647 662 788 718 616 2 792 173 220 19 451 278 
+/home/data/lj/egohands/images/test/frame_0819.jpg 2 915 337 1178 617 205 68 502 296 
+/home/data/lj/egohands/images/test/frame_0821.jpg 2 535 237 664 386 379 243 517 376 
+/home/data/lj/egohands/images/test/frame_0822.jpg 2 501 200 659 317 263 114 426 262 
+/home/data/lj/egohands/images/test/frame_0826.jpg 4 65 384 474 708 769 374 1123 709 501 10 572 106 387 86 529 215 
+/home/data/lj/egohands/images/test/frame_0831.jpg 2 625 379 791 491 489 346 614 461 
+/home/data/lj/egohands/images/test/frame_0832.jpg 2 592 229 736 346 437 231 573 359 
+/home/data/lj/egohands/images/test/frame_0838.jpg 3 535 55 864 447 637 345 726 451 353 362 440 500 
+/home/data/lj/egohands/images/test/frame_0840.jpg 2 736 245 887 350 435 151 592 320 
+/home/data/lj/egohands/images/test/frame_0843.jpg 4 1 536 314 717 645 424 1000 719 612 368 802 496 153 5 356 93 
+/home/data/lj/egohands/images/test/frame_0849.jpg 4 297 663 506 719 659 638 849 717 716 312 824 428 345 264 468 385 
+/home/data/lj/egohands/images/test/frame_0850.jpg 4 238 603 457 718 746 507 1021 718 627 264 852 444 229 289 365 470 
+/home/data/lj/egohands/images/test/frame_0853.jpg 3 682 609 854 719 734 247 852 399 514 360 642 469 
+/home/data/lj/egohands/images/test/frame_0858.jpg 3 526 417 1106 718 521 209 753 341 282 167 548 325 
+/home/data/lj/egohands/images/test/frame_0859.jpg 3 492 406 773 659 803 265 936 401 519 222 676 337 
+/home/data/lj/egohands/images/test/frame_0860.jpg 4 208 645 297 719 625 577 957 719 692 311 849 452 520 327 684 462 
+/home/data/lj/egohands/images/test/frame_0866.jpg 3 669 501 1012 719 872 375 1111 617 431 324 595 574 
+/home/data/lj/egohands/images/test/frame_0876.jpg 4 14 540 315 712 554 467 802 711 576 155 703 296 403 150 567 306 
+/home/data/lj/egohands/images/test/frame_0880.jpg 4 1 479 408 718 535 250 908 585 614 193 834 349 166 250 340 447 
+/home/data/lj/egohands/images/test/frame_0885.jpg 3 3 338 104 492 463 663 748 719 766 192 944 360 
+/home/data/lj/egohands/images/test/frame_0893.jpg 2 363 373 550 551 1 449 110 635 
+/home/data/lj/egohands/images/test/frame_0895.jpg 2 844 305 1089 573 247 202 498 441 
+/home/data/lj/egohands/images/test/frame_0899.jpg 3 2 643 240 718 740 113 897 336 459 164 744 380 
+/home/data/lj/egohands/images/test/frame_0907.jpg 4 321 673 386 718 722 574 883 714 668 300 777 395 538 289 650 387 
+/home/data/lj/egohands/images/test/frame_0909.jpg 3 939 265 1271 546 300 153 509 337 79 190 270 378 
+/home/data/lj/egohands/images/test/frame_0911.jpg 4 174 592 364 718 556 481 942 718 588 58 787 192 410 60 573 201 
+/home/data/lj/egohands/images/test/frame_0917.jpg 2 485 359 682 502 203 400 315 552 
+/home/data/lj/egohands/images/test/frame_0923.jpg 3 264 377 491 635 558 163 709 286 346 199 501 307 
+/home/data/lj/egohands/images/test/frame_0924.jpg 2 864 308 1113 590 150 246 432 519 
+/home/data/lj/egohands/images/test/frame_0925.jpg 4 1 474 251 718 329 613 675 718 724 127 877 251 480 157 650 268 
+/home/data/lj/egohands/images/test/frame_0954.jpg 4 338 704 352 718 800 532 959 718 676 337 795 439 556 328 664 427 
+/home/data/lj/egohands/images/test/frame_0965.jpg 2 615 291 756 399 259 207 442 348 
+/home/data/lj/egohands/images/test/frame_0976.jpg 3 6 474 215 716 651 37 804 135 489 16 636 167 
+/home/data/lj/egohands/images/test/frame_0977.jpg 3 513 445 804 656 788 342 935 450 602 333 778 439 
+/home/data/lj/egohands/images/test/frame_0984.jpg 4 1 621 222 716 272 654 539 717 664 164 770 276 481 103 711 354 
+/home/data/lj/egohands/images/test/frame_0985.jpg 2 637 239 767 369 481 252 596 359 
+/home/data/lj/egohands/images/test/frame_0986.jpg 2 581 469 927 717 646 403 857 569 
+/home/data/lj/egohands/images/test/frame_0994.jpg 2 626 265 763 372 286 248 489 432 
+/home/data/lj/egohands/images/test/frame_1006.jpg 4 211 555 444 714 906 704 1055 714 872 328 1037 504 590 321 749 541 
+/home/data/lj/egohands/images/test/frame_1009.jpg 3 701 666 862 711 905 320 1152 606 395 191 544 329 
+/home/data/lj/egohands/images/test/frame_1016.jpg 1 550 229 815 551 
+/home/data/lj/egohands/images/test/frame_1019.jpg 2 597 457 938 714 682 406 886 574 
+/home/data/lj/egohands/images/test/frame_1022.jpg 4 2 520 377 715 487 546 921 719 1016 236 1279 438 613 204 921 408 
+/home/data/lj/egohands/images/test/frame_1026.jpg 2 1 460 355 718 355 277 802 570 
+/home/data/lj/egohands/images/test/frame_1030.jpg 2 711 293 877 419 311 295 488 498 
+/home/data/lj/egohands/images/test/frame_1038.jpg 3 771 638 1031 718 680 341 819 449 485 328 655 432 
+/home/data/lj/egohands/images/test/frame_1039.jpg 4 3 441 331 671 451 388 1050 716 951 90 1231 291 608 32 911 208 
+/home/data/lj/egohands/images/test/frame_1054.jpg 3 680 349 1256 693 546 155 784 295 345 107 587 254 
+/home/data/lj/egohands/images/test/frame_1059.jpg 2 699 238 857 357 238 243 428 403 
+/home/data/lj/egohands/images/test/frame_1075.jpg 3 495 299 741 710 696 354 804 500 327 352 442 510 
+/home/data/lj/egohands/images/test/frame_1091.jpg 2 674 309 821 420 431 264 653 446 
+/home/data/lj/egohands/images/test/frame_1098.jpg 2 963 427 1232 718 114 390 341 627 
+/home/data/lj/egohands/images/test/frame_1100.jpg 2 656 276 767 403 387 281 514 416 
+/home/data/lj/egohands/images/test/frame_1110.jpg 4 7 432 279 639 319 341 926 673 720 8 1091 181 291 98 576 309 
+/home/data/lj/egohands/images/test/frame_1115.jpg 2 550 396 702 502 421 386 546 507 
+/home/data/lj/egohands/images/test/frame_1118.jpg 3 371 670 547 719 493 416 795 656 655 573 808 719 
+/home/data/lj/egohands/images/test/frame_1133.jpg 4 214 704 323 717 777 646 946 719 649 336 754 435 406 407 543 540 
+/home/data/lj/egohands/images/test/frame_1138.jpg 2 658 316 802 424 507 139 658 256 
+/home/data/lj/egohands/images/test/frame_1160.jpg 3 372 705 442 718 635 150 794 301 399 224 525 366 
+/home/data/lj/egohands/images/test/frame_1174.jpg 4 1 413 372 716 639 352 1082 718 518 21 698 246 243 25 469 250 
+/home/data/lj/egohands/images/test/frame_1175.jpg 3 3 594 138 718 672 218 806 334 332 196 507 325 
+/home/data/lj/egohands/images/test/frame_1178.jpg 1 566 417 751 610 
+/home/data/lj/egohands/images/test/frame_1181.jpg 4 45 487 421 719 537 457 886 718 614 383 808 532 302 396 338 484 
+/home/data/lj/egohands/images/test/frame_1194.jpg 4 303 680 457 718 576 592 804 718 478 55 630 247 113 157 353 351 
+/home/data/lj/egohands/images/test/frame_1238.jpg 3 497 442 840 715 410 215 565 345 342 277 403 341 
+/home/data/lj/egohands/images/test/frame_1240.jpg 4 356 613 539 712 667 646 778 718 708 227 844 340 563 227 680 320 
+/home/data/lj/egohands/images/test/frame_1249.jpg 4 171 680 370 718 577 339 864 718 662 269 804 371 338 154 459 305 
+/home/data/lj/egohands/images/test/frame_1262.jpg 4 10 577 315 718 463 659 683 718 781 119 938 246 406 128 581 260 
+/home/data/lj/egohands/images/test/frame_1267.jpg 4 78 510 419 718 578 478 901 714 595 416 804 540 301 410 354 507 
+/home/data/lj/egohands/images/test/frame_1274.jpg 2 700 300 831 407 472 321 641 428 
+/home/data/lj/egohands/images/test/frame_1278.jpg 3 133 551 420 717 370 313 486 477 187 361 341 489 
+/home/data/lj/egohands/images/test/frame_1293.jpg 2 427 106 612 229 172 97 386 246 
+/home/data/lj/egohands/images/test/frame_1294.jpg 4 400 687 519 719 658 315 945 692 725 374 784 464 438 392 590 516 
+/home/data/lj/egohands/images/test/frame_1306.jpg 4 67 550 278 719 803 689 926 712 623 362 738 459 360 438 500 581 
+/home/data/lj/egohands/images/test/frame_1312.jpg 2 592 203 751 312 417 222 561 322 
+/home/data/lj/egohands/images/test/frame_1313.jpg 3 233 445 434 718 514 467 635 714 665 507 815 717 
+/home/data/lj/egohands/images/test/frame_1317.jpg 4 404 631 609 718 629 654 804 718 604 452 790 606 445 429 580 560 
+/home/data/lj/egohands/images/test/frame_1318.jpg 3 206 653 337 719 588 365 683 640 280 518 433 662 
+/home/data/lj/egohands/images/test/frame_1320.jpg 2 451 57 646 185 203 64 432 192 
+/home/data/lj/egohands/images/test/frame_1329.jpg 1 1097 600 1273 718 
+/home/data/lj/egohands/images/test/frame_1332.jpg 4 6 479 280 718 519 691 693 718 596 132 738 230 416 156 563 255 
+/home/data/lj/egohands/images/test/frame_1350.jpg 4 1 667 194 718 469 373 864 652 880 411 1058 596 361 315 550 464 
+/home/data/lj/egohands/images/test/frame_1352.jpg 3 24 500 342 718 586 212 764 347 440 252 584 366 
+/home/data/lj/egohands/images/test/frame_1359.jpg 4 497 673 547 718 605 518 870 717 765 3 857 49 635 264 746 361 
+/home/data/lj/egohands/images/test/frame_1360.jpg 2 817 448 994 658 71 461 272 656 
+/home/data/lj/egohands/images/test/frame_1365.jpg 4 228 614 478 718 493 609 712 714 497 278 682 460 374 288 539 425 
+/home/data/lj/egohands/images/test/frame_1368.jpg 4 119 197 290 528 460 425 741 718 653 126 820 304 265 134 423 357 
+/home/data/lj/egohands/images/test/frame_1371.jpg 4 2 531 99 617 700 484 1040 718 429 269 657 464 194 271 409 476 
+/home/data/lj/egohands/images/test/frame_1379.jpg 4 1 515 478 716 540 535 1166 715 511 181 735 307 288 146 494 296 
+/home/data/lj/egohands/images/test/frame_1387.jpg 4 285 384 421 668 516 284 686 662 503 1 701 289 165 45 429 349 
+/home/data/lj/egohands/images/test/frame_1390.jpg 4 141 497 393 712 519 681 565 714 576 391 612 490 341 423 381 498 
+/home/data/lj/egohands/images/test/frame_1407.jpg 3 408 340 548 664 633 389 757 713 489 678 507 716 
+/home/data/lj/egohands/images/test/frame_1416.jpg 4 229 655 457 719 595 629 848 719 751 233 965 455 336 282 527 523 
+/home/data/lj/egohands/images/test/frame_1427.jpg 4 380 690 596 719 712 610 953 718 796 231 938 379 467 219 682 439 
+/home/data/lj/egohands/images/test/frame_1433.jpg 3 143 679 357 718 646 168 815 321 455 90 637 196 
+/home/data/lj/egohands/images/test/frame_1435.jpg 4 308 659 535 718 573 669 766 718 707 140 866 286 397 190 520 330 
+/home/data/lj/egohands/images/test/frame_1438.jpg 4 254 649 472 719 656 578 916 719 873 4 975 32 589 389 753 513 
+/home/data/lj/egohands/images/test/frame_1442.jpg 2 713 345 859 479 342 165 491 337 
+/home/data/lj/egohands/images/test/frame_1452.jpg 4 119 553 468 719 500 476 994 716 123 167 372 323 8 201 65 328 
+/home/data/lj/egohands/images/test/frame_1457.jpg 3 1 501 302 716 1217 157 1279 322 746 176 1059 328 
+/home/data/lj/egohands/images/test/frame_1459.jpg 4 311 636 587 719 597 358 846 564 405 167 636 300 150 100 313 302 
+/home/data/lj/egohands/images/test/frame_1467.jpg 2 621 250 827 374 308 246 513 378 
+/home/data/lj/egohands/images/test/frame_1486.jpg 2 698 379 851 513 319 212 488 352 
+/home/data/lj/egohands/images/test/frame_1499.jpg 3 7 667 225 718 885 34 1141 354 111 203 370 436 
+/home/data/lj/egohands/images/test/frame_1503.jpg 4 1 454 416 714 531 477 1249 714 360 23 647 238 5 192 110 332 
+/home/data/lj/egohands/images/test/frame_1511.jpg 2 583 304 782 448 286 314 482 437 
+/home/data/lj/egohands/images/test/frame_1513.jpg 2 576 332 762 468 288 337 481 461 
+/home/data/lj/egohands/images/test/frame_1519.jpg 3 668 475 1037 719 630 219 760 352 459 207 612 332 
+/home/data/lj/egohands/images/test/frame_1530.jpg 4 353 688 402 718 691 601 835 716 616 251 741 350 482 247 598 353 
+/home/data/lj/egohands/images/test/frame_1535.jpg 4 262 697 415 718 687 493 1186 716 638 233 819 369 472 218 616 357 
+/home/data/lj/egohands/images/test/frame_1539.jpg 2 625 313 767 415 457 308 622 409 
+/home/data/lj/egohands/images/test/frame_1555.jpg 4 175 602 446 718 563 631 838 718 616 205 838 322 330 85 514 273 
+/home/data/lj/egohands/images/test/frame_1560.jpg 3 781 637 1001 717 427 283 624 431 120 329 284 494 
+/home/data/lj/egohands/images/test/frame_1571.jpg 2 639 311 791 420 469 313 629 420 
+/home/data/lj/egohands/images/test/frame_1575.jpg 4 7 522 304 718 494 358 1142 718 460 43 701 242 10 146 193 350 
+/home/data/lj/egohands/images/test/frame_1577.jpg 4 158 466 499 717 620 452 894 706 725 342 926 495 526 324 708 483 
+/home/data/lj/egohands/images/test/frame_1579.jpg 4 212 427 465 706 499 501 700 718 423 328 843 602 379 289 559 429 
+/home/data/lj/egohands/images/test/frame_1585.jpg 3 609 243 855 424 634 575 776 715 410 553 512 697 
+/home/data/lj/egohands/images/test/frame_1601.jpg 2 600 216 806 370 286 258 485 378 
+/home/data/lj/egohands/images/test/frame_1606.jpg 4 285 666 375 719 685 539 919 719 748 388 918 505 573 388 737 519 
+/home/data/lj/egohands/images/test/frame_1612.jpg 4 325 573 481 719 653 553 894 719 767 373 1027 588 518 324 678 552 
+/home/data/lj/egohands/images/test/frame_1614.jpg 4 115 488 510 714 630 656 873 718 343 75 572 209 6 72 62 185 
+/home/data/lj/egohands/images/test/frame_1619.jpg 3 653 664 729 714 646 324 765 423 510 299 604 423 
+/home/data/lj/egohands/images/test/frame_1620.jpg 3 5 607 411 713 658 206 890 332 420 217 658 338 
+/home/data/lj/egohands/images/test/frame_1621.jpg 3 747 335 986 712 719 309 861 443 408 265 499 411 
+/home/data/lj/egohands/images/test/frame_1629.jpg 3 304 641 478 718 548 5 809 110 302 6 491 156 
+/home/data/lj/egohands/images/test/frame_1635.jpg 4 10 425 155 639 385 398 927 716 370 70 641 246 6 126 397 334 
+/home/data/lj/egohands/images/test/frame_1642.jpg 3 584 663 683 718 637 387 786 511 477 312 576 409 
+/home/data/lj/egohands/images/test/frame_1648.jpg 3 799 537 1120 718 700 329 844 442 539 316 699 428 
+/home/data/lj/egohands/images/test/frame_1649.jpg 4 181 655 323 718 616 657 739 718 571 235 775 347 342 216 535 349 
+/home/data/lj/egohands/images/test/frame_1656.jpg 4 43 293 432 490 505 618 766 718 583 76 722 176 402 156 550 254 
+/home/data/lj/egohands/images/test/frame_1661.jpg 3 713 424 969 593 724 322 874 431 565 312 734 424 
+/home/data/lj/egohands/images/test/frame_1680.jpg 2 472 260 925 665 1 48 211 347 
+/home/data/lj/egohands/images/test/frame_1684.jpg 2 541 288 1121 616 1 378 20 405 
+/home/data/lj/egohands/images/test/frame_1694.jpg 4 11 656 269 717 307 667 544 718 704 163 853 283 208 183 353 314 
+/home/data/lj/egohands/images/test/frame_1706.jpg 3 7 631 526 715 499 411 840 615 245 364 463 589 
+/home/data/lj/egohands/images/test/frame_1711.jpg 3 624 560 893 717 393 419 600 536 217 369 361 522 
+/home/data/lj/egohands/images/test/frame_1717.jpg 4 176 577 394 719 609 423 820 606 365 352 682 601 205 332 368 560 
+/home/data/lj/egohands/images/test/frame_1720.jpg 4 125 515 345 713 621 375 901 715 570 262 646 493 424 246 512 474 
+/home/data/lj/egohands/images/test/frame_1734.jpg 2 341 398 579 537 249 293 383 399 
+/home/data/lj/egohands/images/test/frame_1739.jpg 1 711 3 904 107 
+/home/data/lj/egohands/images/test/frame_1746.jpg 2 482 301 645 423 312 325 509 444 
+/home/data/lj/egohands/images/test/frame_1747.jpg 1 337 214 569 523 
+/home/data/lj/egohands/images/test/frame_1755.jpg 3 391 246 546 585 597 241 868 652 792 413 976 710 
+/home/data/lj/egohands/images/test/frame_1757.jpg 4 162 636 370 714 519 379 790 609 610 188 738 274 418 120 597 271 
+/home/data/lj/egohands/images/test/frame_1758.jpg 4 137 487 546 718 604 494 1033 716 427 362 589 487 114 578 205 717 
+/home/data/lj/egohands/images/test/frame_1764.jpg 4 368 668 440 718 664 671 774 718 662 292 802 400 521 246 620 361 
+/home/data/lj/egohands/images/test/frame_1765.jpg 4 62 544 308 718 639 585 897 719 752 336 913 460 545 354 717 491 
+/home/data/lj/egohands/images/test/frame_1780.jpg 3 55 377 347 696 689 153 1005 533 538 278 673 420 
+/home/data/lj/egohands/images/test/frame_1788.jpg 2 753 179 812 305 475 157 557 277 
+/home/data/lj/egohands/images/test/frame_1804.jpg 2 631 299 814 431 229 276 402 421 
+/home/data/lj/egohands/images/test/frame_1805.jpg 4 290 367 414 704 478 329 708 669 705 413 858 632 248 186 414 372 
+/home/data/lj/egohands/images/test/frame_1806.jpg 4 150 584 337 717 543 514 881 718 717 192 847 288 398 164 568 285 
+/home/data/lj/egohands/images/test/frame_1823.jpg 4 128 652 294 716 534 627 744 718 690 133 866 290 152 144 332 318 
+/home/data/lj/egohands/images/test/frame_1833.jpg 4 108 633 351 716 807 504 1013 717 608 275 817 417 445 224 594 415 
+/home/data/lj/egohands/images/test/frame_1835.jpg 2 711 438 900 652 205 500 435 718 
+/home/data/lj/egohands/images/test/frame_1840.jpg 4 51 580 325 713 622 531 894 717 599 271 793 425 444 246 596 414 
+/home/data/lj/egohands/images/test/frame_1845.jpg 4 113 646 304 718 544 627 749 718 677 146 830 318 162 199 327 390 
+/home/data/lj/egohands/images/test/frame_1894.jpg 3 40 669 272 716 713 238 840 346 276 188 410 317 
+/home/data/lj/egohands/images/test/frame_1901.jpg 3 267 600 536 717 613 540 870 717 453 208 637 431 
+/home/data/lj/egohands/images/test/frame_1904.jpg 4 300 570 614 715 666 537 925 717 555 215 736 366 62 216 261 403 
+/home/data/lj/egohands/images/test/frame_1912.jpg 2 666 355 758 484 415 373 497 483 
+/home/data/lj/egohands/images/test/frame_1923.jpg 2 824 353 871 479 510 372 642 492 
+/home/data/lj/egohands/images/test/frame_1924.jpg 4 266 704 335 717 486 472 748 689 679 271 806 375 382 292 538 439 
+/home/data/lj/egohands/images/test/frame_1926.jpg 4 355 553 633 719 711 536 961 718 646 200 799 376 317 188 508 349 
+/home/data/lj/egohands/images/test/frame_1930.jpg 4 1 492 216 718 909 389 1231 719 649 364 844 506 511 364 649 494 
+/home/data/lj/egohands/images/test/frame_1932.jpg 2 5 300 22 341 438 181 979 530 
+/home/data/lj/egohands/images/test/frame_1942.jpg 4 35 684 262 717 259 681 531 718 707 222 836 336 305 110 485 398 
+/home/data/lj/egohands/images/test/frame_1963.jpg 3 642 15 1112 299 706 306 865 484 1 317 17 359 
+/home/data/lj/egohands/images/test/frame_1967.jpg 3 853 344 1130 572 728 351 861 466 556 336 728 442 
+/home/data/lj/egohands/images/test/frame_1969.jpg 4 217 584 515 718 589 501 1006 718 563 161 733 271 404 171 540 308 
+/home/data/lj/egohands/images/test/frame_1971.jpg 3 662 645 869 719 631 516 803 663 255 512 450 663 
+/home/data/lj/egohands/images/test/frame_1973.jpg 2 379 94 943 532 561 439 707 548 
+/home/data/lj/egohands/images/test/frame_1978.jpg 2 609 111 765 284 257 152 527 362 
+/home/data/lj/egohands/images/test/frame_1986.jpg 4 13 479 246 700 498 420 1136 710 280 136 656 391 1 66 134 283 
+/home/data/lj/egohands/images/test/frame_1991.jpg 3 402 676 561 718 569 199 747 318 366 135 544 273 
+/home/data/lj/egohands/images/test/frame_2006.jpg 2 468 140 645 252 338 7 645 163 
+/home/data/lj/egohands/images/test/frame_2018.jpg 4 332 229 493 594 525 309 857 662 686 600 785 716 421 568 509 719 
+/home/data/lj/egohands/images/test/frame_2021.jpg 4 12 370 448 709 523 309 858 545 594 27 776 224 227 49 462 281 
+/home/data/lj/egohands/images/test/frame_2025.jpg 2 679 357 829 458 455 357 634 460 
+/home/data/lj/egohands/images/test/frame_2028.jpg 4 16 365 423 713 545 306 886 594 612 19 791 227 244 34 509 238 
+/home/data/lj/egohands/images/test/frame_2031.jpg 4 314 629 464 719 608 568 799 713 579 227 683 498 352 271 483 549 
+/home/data/lj/egohands/images/test/frame_2037.jpg 2 734 498 936 636 258 472 410 652 
+/home/data/lj/egohands/images/test/frame_2042.jpg 3 69 583 332 718 683 472 957 718 766 233 950 394 
+/home/data/lj/egohands/images/test/frame_2051.jpg 3 563 373 812 581 670 239 815 368 515 249 677 368 
+/home/data/lj/egohands/images/test/frame_2064.jpg 3 633 680 817 718 552 277 808 502 217 400 412 625 
+/home/data/lj/egohands/images/test/frame_2066.jpg 3 667 396 924 570 658 271 804 402 464 242 605 399 
+/home/data/lj/egohands/images/test/frame_2071.jpg 2 412 150 591 267 49 11 294 222 
+/home/data/lj/egohands/images/test/frame_2088.jpg 4 14 558 338 712 584 453 988 709 519 7 661 167 155 4 363 168 
+/home/data/lj/egohands/images/test/frame_2107.jpg 4 296 684 404 718 565 629 849 718 686 216 864 339 272 239 459 375 
+/home/data/lj/egohands/images/test/frame_2116.jpg 4 9 602 323 718 546 262 831 486 796 179 928 303 292 118 423 243 
+/home/data/lj/egohands/images/test/frame_2121.jpg 3 729 494 1130 717 288 47 478 167 3 123 68 295 
+/home/data/lj/egohands/images/test/frame_2138.jpg 4 6 284 437 585 540 584 893 718 647 534 696 593 218 632 407 718 
+/home/data/lj/egohands/images/test/frame_2147.jpg 2 583 248 740 395 399 246 571 520 
+/home/data/lj/egohands/images/test/frame_2154.jpg 3 587 489 1023 717 373 103 554 222 9 155 167 350 
+/home/data/lj/egohands/images/test/frame_2173.jpg 4 67 523 396 715 565 521 812 711 526 173 684 313 297 184 506 353 
+/home/data/lj/egohands/images/test/frame_2176.jpg 4 1 474 187 718 947 252 1220 568 195 346 498 543 60 210 233 369 
+/home/data/lj/egohands/images/test/frame_2181.jpg 4 129 358 406 555 576 704 610 716 612 102 746 209 383 188 536 284 
+/home/data/lj/egohands/images/test/frame_2183.jpg 3 158 595 448 718 565 161 719 288 330 101 525 260 
+/home/data/lj/egohands/images/test/frame_2202.jpg 4 286 654 506 718 547 642 798 718 581 234 705 325 445 230 560 325 
+/home/data/lj/egohands/images/test/frame_2206.jpg 3 282 656 493 718 651 175 782 252 445 200 584 280 
+/home/data/lj/egohands/images/test/frame_2220.jpg 4 64 693 308 719 680 489 1050 712 375 124 589 354 212 239 415 500 
+/home/data/lj/egohands/images/test/frame_2226.jpg 1 526 257 897 550 
+/home/data/lj/egohands/images/test/frame_2231.jpg 1 520 246 910 541 
+/home/data/lj/egohands/images/test/frame_2235.jpg 1 542 228 937 516 
+/home/data/lj/egohands/images/test/frame_2267.jpg 4 3 553 245 716 1044 260 1279 589 908 299 1082 517 366 125 645 373 
+/home/data/lj/egohands/images/test/frame_2269.jpg 4 348 583 597 719 599 537 799 719 727 365 947 557 306 303 501 522 
+/home/data/lj/egohands/images/test/frame_2272.jpg 4 148 581 404 718 584 445 928 717 530 255 709 355 369 235 502 353 
+/home/data/lj/egohands/images/test/frame_2292.jpg 4 194 553 520 718 556 580 840 716 605 36 755 197 353 89 491 299 
+/home/data/lj/egohands/images/test/frame_2302.jpg 4 176 563 464 713 580 491 980 717 719 288 837 395 295 7 463 174 
+/home/data/lj/egohands/images/test/frame_2317.jpg 2 219 489 609 718 323 254 561 449 
+/home/data/lj/egohands/images/test/frame_2321.jpg 4 224 607 383 714 577 569 869 718 573 221 749 328 331 222 474 367 
+/home/data/lj/egohands/images/test/frame_2334.jpg 4 375 596 589 718 680 487 923 718 305 234 572 537 1 322 205 714 
+/home/data/lj/egohands/images/test/frame_2344.jpg 4 79 665 299 716 344 677 568 717 708 198 836 312 205 202 335 330 
+/home/data/lj/egohands/images/test/frame_2345.jpg 4 201 646 378 718 377 685 571 713 626 142 750 221 308 181 485 346 
+/home/data/lj/egohands/images/test/frame_2351.jpg 2 572 443 809 707 459 246 555 351 
+/home/data/lj/egohands/images/test/frame_2370.jpg 2 410 91 584 213 40 114 226 308 
+/home/data/lj/egohands/images/test/frame_2376.jpg 4 211 367 454 612 623 485 885 711 723 139 873 331 390 143 542 274 
+/home/data/lj/egohands/images/test/frame_2393.jpg 3 745 656 860 718 682 312 792 404 548 316 668 409 
+/home/data/lj/egohands/images/test/frame_2425.jpg 2 693 420 796 562 436 291 520 433 
+/home/data/lj/egohands/images/test/frame_2429.jpg 3 5 317 62 530 678 381 1142 719 723 222 888 375 
+/home/data/lj/egohands/images/test/frame_2433.jpg 3 199 661 462 718 842 440 936 567 367 405 564 590 
+/home/data/lj/egohands/images/test/frame_2435.jpg 4 1 339 385 719 748 296 1240 716 681 352 842 535 411 391 595 637 
+/home/data/lj/egohands/images/test/frame_2440.jpg 4 323 633 475 719 609 563 991 719 694 370 888 495 310 392 472 613 
+/home/data/lj/egohands/images/test/frame_2442.jpg 4 332 644 472 719 652 528 1026 719 688 364 872 489 319 391 470 605 
+/home/data/lj/egohands/images/test/frame_2451.jpg 4 3 621 164 712 914 4 1279 318 853 349 1050 553 238 273 402 443 
+/home/data/lj/egohands/images/test/frame_2461.jpg 4 2 344 110 553 827 489 1108 717 663 41 886 177 146 27 354 267 
+/home/data/lj/egohands/images/test/frame_2470.jpg 4 172 527 409 712 499 421 684 577 929 322 1129 573 504 271 650 441 
+/home/data/lj/egohands/images/test/frame_2472.jpg 3 815 693 948 717 725 413 920 548 303 470 444 673 
+/home/data/lj/egohands/images/test/frame_2493.jpg 2 638 147 772 247 455 167 535 267 
+/home/data/lj/egohands/images/test/frame_2498.jpg 3 332 436 560 714 732 495 986 718 344 340 506 457 
+/home/data/lj/egohands/images/test/frame_2499.jpg 2 590 144 758 282 385 112 577 269 
+/home/data/lj/egohands/images/test/frame_2507.jpg 4 1 429 156 698 759 490 1002 714 630 396 840 584 371 369 534 615 
+/home/data/lj/egohands/images/test/frame_2514.jpg 2 801 269 1208 503 480 583 634 718 
+/home/data/lj/egohands/images/test/frame_2530.jpg 2 755 407 1066 667 81 394 276 600 
+/home/data/lj/egohands/images/test/frame_2535.jpg 2 613 456 732 576 208 127 517 376 
+/home/data/lj/egohands/images/test/frame_2536.jpg 4 208 275 463 481 572 280 724 573 830 474 1021 615 323 118 465 248 
+/home/data/lj/egohands/images/test/frame_2537.jpg 3 704 467 987 711 724 261 910 381 102 395 303 681 
+/home/data/lj/egohands/images/test/frame_2547.jpg 2 270 702 389 718 374 48 535 320 
+/home/data/lj/egohands/images/test/frame_2556.jpg 4 166 621 381 718 382 636 583 714 552 144 693 235 402 142 552 267 
+/home/data/lj/egohands/images/test/frame_2566.jpg 3 686 174 871 346 777 459 922 668 370 469 458 637 
+/home/data/lj/egohands/images/test/frame_2567.jpg 4 10 363 299 716 804 371 1279 712 1006 264 1237 378 6 242 96 398 
+/home/data/lj/egohands/images/test/frame_2569.jpg 3 266 614 439 717 661 398 770 529 348 125 522 318 
+/home/data/lj/egohands/images/test/frame_2585.jpg 4 77 520 389 716 915 439 1270 717 519 239 762 551 333 308 514 597 
+/home/data/lj/egohands/images/test/frame_2599.jpg 4 360 614 601 710 588 480 809 713 686 380 846 583 23 404 327 693 
+/home/data/lj/egohands/images/test/frame_2616.jpg 4 307 706 343 719 880 699 1008 719 716 341 880 517 381 302 542 466 
+/home/data/lj/egohands/images/test/frame_2622.jpg 2 679 309 832 421 567 296 679 417 
+/home/data/lj/egohands/images/test/frame_2629.jpg 4 15 454 444 716 516 424 744 706 403 54 584 167 6 120 67 340 
+/home/data/lj/egohands/images/test/frame_2630.jpg 1 662 275 806 419 
+/home/data/lj/egohands/images/test/frame_2641.jpg 3 647 543 910 713 548 279 693 399 424 309 564 415 
+/home/data/lj/egohands/images/test/frame_2645.jpg 4 285 634 400 718 610 571 955 719 682 396 855 524 262 437 432 645 
+/home/data/lj/egohands/images/test/frame_2648.jpg 2 637 267 862 462 162 206 346 350 
+/home/data/lj/egohands/images/test/frame_2658.jpg 4 110 576 418 718 614 390 920 660 493 219 674 329 345 205 498 309 
+/home/data/lj/egohands/images/test/frame_2671.jpg 2 634 90 824 295 299 40 532 278 
+/home/data/lj/egohands/images/test/frame_2674.jpg 4 205 603 470 719 822 336 1008 669 620 295 745 391 470 303 613 413 
+/home/data/lj/egohands/images/test/frame_2682.jpg 4 444 626 630 718 726 630 774 699 733 689 950 716 1 355 116 526 
+/home/data/lj/egohands/images/test/frame_2683.jpg 3 251 238 429 349 559 494 844 716 504 204 660 358 
+/home/data/lj/egohands/images/test/frame_2695.jpg 3 678 651 806 716 670 326 757 457 374 362 520 472 
